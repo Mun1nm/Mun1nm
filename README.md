@@ -27,13 +27,16 @@ class JoaoAveraldo extends Student {
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Joao-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-
-
 </div>
 
 ##
 ### Let’s connect! 📬
-<div>  
+<div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-averaldo-antunes-860a15286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+### Thanks for stopping by 🤍
+<div><br>
+  <img align="center" alt="Joao-R2D2" height="250" width="330" src="https://media1.tenor.com/m/xMlPK65lad4AAAAd/r2d2-star-wars.gif" />
 </div>
