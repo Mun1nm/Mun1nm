@@ -4,9 +4,9 @@
 class JoaoAveraldo extends Student {
   JoaoAveraldo(
     this.name = "Joao Vitor Averaldo",
-    this.age = 21,
+    this.age = 22,
     this.location = "Sao Paulo, Brazil"
-    this.technologies = ["C", "Java", "Python", "JavaScript", "Dart", "PHP", "SQL"],
+    this.technologies = ["C", "C#", Java", "Python", "JavaScript", "Dart", "PHP", "SQL"],
     this.hobbies = ["Football", "Gaming", "Video Editing"],  
   );
 }:
