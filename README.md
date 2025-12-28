@@ -6,7 +6,7 @@ class JoaoAveraldo extends Student {
     this.name = "Joao Vitor Averaldo",
     this.age = 22,
     this.location = "Sao Paulo, Brazil"
-    this.technologies = ["C", "C#", Java", "Python", "JavaScript", "Dart", "PHP", "SQL"],
+    this.technologies = ["C", "C#", "Java", "Python", "JavaScript", "Dart", "PHP", "SQL"],
     this.hobbies = ["Football", "Gaming", "Video Editing"],  
   );
 }:
@@ -15,6 +15,7 @@ class JoaoAveraldo extends Student {
 ### My Tech Stack 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Joao-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Joao-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
